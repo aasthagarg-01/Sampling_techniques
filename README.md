@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection — Sampling Techniques Assignment
+# Credit Card Fraud Detection — Sampling Techniques
 
 ## Overview
 
